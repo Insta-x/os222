@@ -15,3 +15,7 @@ permalink: LINKS/
 1. [Webminal](https://webminal.org)<br>
 Free online GNU/Linux terminal and programming IDE.
 It's useful when you need to access Linux terminal with your web browser and there are tutorials for using the Linux terminal and vim more efficiently.
+
+2. [Distro Chooser](https://distrochooser.de/)<br>
+Give you suggestion on some Linux distro based on your answer to the questions.
+Useful when you need some quick distro suggestions.
