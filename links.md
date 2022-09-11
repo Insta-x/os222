@@ -11,3 +11,7 @@ permalink: LINKS/
 <hr>
 
 # LINKS
+
+1. [Webminal](https://webminal.org)<br>
+Free online GNU/Linux terminal and programming IDE.
+It's useful when you need to access Linux terminal with your web browser and there are tutorials for using the Linux terminal and vim more efficiently.
