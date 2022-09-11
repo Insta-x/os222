@@ -4,5 +4,5 @@
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG](https://github.com/Insta-x/os222/TXT/mylog.txt) ---
+[LOG](https://insta-x.github.io/os222/TXT/mylog.txt) ---
 [GITHUB](https://github.com/Insta-x/os222)
