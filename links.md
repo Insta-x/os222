@@ -54,3 +54,13 @@ A 16 minutes Youtube video giving a pretty complete explanation about fragmentat
 
 5. [Linked List explanation](https://www.youtube.com/watch?v=njTh_OwMljA)<br>
 A Youtube video explaining about linked list. It's used on some of the file system so it might help in understanding how a file system works.
+
+## WEEK 4
+1. [Pointers in C](https://youtu.be/mw1qsMieK5c)<br>
+10 minutes Youtube video explaining about how pointers work. Pretty short for the amount of information you're getting from the video.
+2. [What is virtual memory?](https://youtu.be/2quKyPnUShQ)<br>
+11 minutes Youtube video explaning about virtual address and how it works. The video has a lot of information about how OS actually manage memories for programs.
+3. [Paging](https://youtu.be/pJ5ezHfJokw)<br>
+1 minute video containing very short explanation about paging. Very short and easy to understand the explanation.
+4. [Segmented, Paged dan Virtual Memory](https://youtu.be/p9yZNLeOj4s)<br>
+7 minutes video about segmentation, paging, and virtual memory. It's kinda like a summary of all these things. Pretty short and easy to follow.
