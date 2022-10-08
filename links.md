@@ -64,3 +64,13 @@ A Youtube video explaining about linked list. It's used on some of the file syst
 1 minute video containing very short explanation about paging. Very short and easy to understand the explanation.
 4. [Segmented, Paged dan Virtual Memory](https://youtu.be/p9yZNLeOj4s)<br>
 7 minutes video about segmentation, paging, and virtual memory. It's kinda like a summary of all these things. Pretty short and easy to follow.
+
+## WEEK 5
+1. [Demand Paging and Page Faults](https://youtu.be/58TYdisGrX0)<br>
+Complete video explanation about demand paging and page faults. The explanation is easy to follow and it's accompanied by good visualization.
+2. [Page Replacement](https://youtu.be/tjohYpKjAVs)<br>
+Complete video explanation about page replacement and various algorithm to do it. The algorithms discussed in the video are FIFO, OPT, LRU, 2nd Chance, LFU, and MFU.
+3. [Frame Allocation](https://youtu.be/psdxOARi4bY)<br>
+11 Minutes video about Frame allocation and techniques used for it. The visualization makes it easy to follow.
+4. [Thrashing](https://youtu.be/vtyXZWp9Fsk)<br>
+6 Minutes video explaning about thrashing. Short, simple and easy to follow. 
