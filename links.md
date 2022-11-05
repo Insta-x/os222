@@ -73,4 +73,15 @@ Complete video explanation about page replacement and various algorithm to do it
 3. [Frame Allocation](https://youtu.be/psdxOARi4bY)<br>
 11 Minutes video about Frame allocation and techniques used for it. The visualization makes it easy to follow.
 4. [Thrashing](https://youtu.be/vtyXZWp9Fsk)<br>
-6 Minutes video explaning about thrashing. Short, simple and easy to follow. 
+6 Minutes video explaning about thrashing. Short, simple and easy to follow.
+
+## WEEK 6
+1. [Difference between process and program](https://www.scaler.com/topics/difference-between-process-and-program/)<br>
+Short articles explaining the difference between process and program.
+You will understand the difference once you read this article.
+2. [Linux processes](https://youtu.be/TJzltwv7jJs)<br>
+13 minutes video explaining about linux processes and functions concerning those.
+Complete explanation while being pretty short.
+3. [Introduction to Threads](https://youtu.be/LOfGJcVnvAk)<br>
+Complete video explanations about threads.
+Explains about thread and the benefits of using threads.

@@ -61,3 +61,9 @@ ZCZC W05 60  L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W05 120 L09 Weekly Assignments
 ZCZC W05 20  L21 Trying something
 ZCZC W05 45  L64 Helping a friend (OS related problem)
+ZCZC W06 220 L00 Gen, etc.
+ZCZC W06 90  L01 SCELE/Discord related
+ZCZC W06 15  L03 GitHub and git related, including commit, push, pull
+ZCZC W06 45  L04 GitHub Pages related
+ZCZC W06 60  L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 60  L09 Weekly Assignments
