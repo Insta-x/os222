@@ -85,3 +85,19 @@ Complete explanation while being pretty short.
 3. [Introduction to Threads](https://youtu.be/LOfGJcVnvAk)<br>
 Complete video explanations about threads.
 Explains about thread and the benefits of using threads.
+
+## WEEK 7
+1. [Process Synchronisation](https://youtu.be/sEVfeXqWY-s)<br>
+Video explaning about about why we need synchronisation and critical section problem.
+Easy to follow and the explanation is pretty complete.
+2. [Critical Section problem Solution](https://youtu.be/mc68TdCxxRg)<br>
+The continuation for the previous video about critical section problem.
+This video explain the solution to critical section problem consisting of mutual exclusion,
+progress, and bounded waiting.
+3. [What is Deadlock](https://youtu.be/FVmwvZNQgt0)<br>
+Video explaining about deadlock and the condition needed for deadlock to happen.
+The explanation is easy to follow and can help you to understand about deadlock.
+4. [Deadlock handling Methods](https://youtu.be/ZI9FFrGd4vc)<br>
+The continuation of the previous video.
+It explains about methods for handling deadlock.
+It is short but complete, and it helps me understanding about handling deadlock.
