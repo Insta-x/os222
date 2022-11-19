@@ -101,3 +101,14 @@ The explanation is easy to follow and can help you to understand about deadlock.
 The continuation of the previous video.
 It explains about methods for handling deadlock.
 It is short but complete, and it helps me understanding about handling deadlock.
+
+## WEEK 8
+1. [CPU and I/O Burst Cycles](https://youtu.be/pVzb3TUcDLo)
+Short video explaining CPU and I/O Burst Cycles.
+Important for understanding how some scheduling algorithm works.
+2. [CPU Scheduling](https://www.scaler.com/topics/operating-system/cpu-scheduling/)
+Short article explaining an overview about CPU Scheduling.
+Very helpful if you haven't understand anything about CPU Scheduling.
+3. [CPU Scheduling Algorithm](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+Complete article explaining CPU scheduling algorithms.
+It explain how each algorithm works and compares each other.
